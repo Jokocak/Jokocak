@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **jamkocak88@gmail.com**
 
-- ⚡ Fun fact **Did you know that playing video games can improve your problem-solving skills? As a computer science major, your gaming hobby might actually be enhancing your ability to tackle complex coding challenges! Keep leveling up in both the virtual and academic worlds!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/james-kocak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-kocak" height="30" width="40" /></a>
