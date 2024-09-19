@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Kocak</h1>
 <h3 align="center">A Software Engineer in search of an Internship!</h3>
 
-- 🌱 I’m currently learning **AngularJS, MySQL, Spring, { REST }, Bootstrap**
+- 🌱 I’m currently learning **C++, AngularJS, MySQL, Spring, { REST }, Bootstrap**
 
 - 📫 How to reach me **jamkocak88@gmail.com**
 
