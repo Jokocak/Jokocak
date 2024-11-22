@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm James Kocak</h1>
-<h3 align="center">A Software Engineer in search of an Internship!</h3>
+<h1 align="center">Hey 👋, I'm James</h1>
 
-- 🌱 I’m currently learning **C++, AngularJS, MySQL, Spring, { REST }, Bootstrap**
+I'm a student at North Carolina State University, graduating in Spring 2025. I'm actively seeking software engineering roles to kickstart my career. I'm passionate about game development and have experience in game design and development. I'm also eager to learn about machine learning and am looking forward to diving deeper into this field.
 
 - 📫 How to reach me **jamkocak88@gmail.com**
 
