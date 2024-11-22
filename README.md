@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm James</h1>
 
-I'm a student at North Carolina State University, graduating in Spring 2025. I'm actively seeking software engineering roles to kickstart my career. I'm passionate about game development and have experience in game design and development. I'm also eager to learn about machine learning and am looking forward to diving deeper into this field.
+I'm a student at North Carolina State University, graduating in Spring 2025. I'm actively seeking software engineering roles to kickstart my career. I'm passionate about game development and have experience in game design, game engine design, and working with Unity, a popular game engine. I'm also eager to learn about machine learning and look forward to diving deeper into this field.
 
 - 📫 How to reach me **jamkocak88@gmail.com**
 
