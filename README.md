@@ -10,8 +10,7 @@
   debt-payoff app on Flutter + Supabase + Postgres.
 
   - 🔭 Currently exploring agentic AI and scalable data pipelines
-  - 🌱 Databricks Certified Data Engineer Associate; pursuing Claude
-  Code Certification
+  - 🌱 Claude Code Certification; Databricks Certified Data Engineer Associate
   - 🌐 Portfolio: **https://james-kocak.netlify.app/**
   - 📫 How to reach me: **jamkocak88@gmail.com**
 
