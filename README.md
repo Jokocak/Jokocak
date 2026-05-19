@@ -14,11 +14,13 @@
   - 🌐 Portfolio: **https://james-kocak.netlify.app/**
   - 📫 How to reach me: **jamkocak88@gmail.com**
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/james-kocak" target="blank"><img 
-  align="center" 
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-rea
-  dme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-  alt="james-kocak" height="30" width="40" /></a>
-  </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/james-kocak" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+</p>
