@@ -17,10 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/james-kocak" target="_blank">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
